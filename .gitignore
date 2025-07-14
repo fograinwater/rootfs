@@ -1,0 +1,24 @@
+# 忽略所有 .log 文件
+*.log
+
+# # 忽略特定文件
+# secret.key
+
+# # 忽略目录（末尾加 /）
+# node_modules/
+# dist/
+# build/
+
+# # 忽略所有 .txt 文件，但保留 important.txt
+# *.txt
+# !important.txt
+
+# # 忽略 macOS 系统文件
+# .DS_Store
+
+# # 忽略 IDE 配置文件
+# .idea/
+# .vscode/
+
+# # 忽略 Windows 缩略图缓存
+# Thumbs.db
